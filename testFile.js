@@ -12,3 +12,18 @@ const dogOwners = {
         breed: "Pitbull"
     }
 }
+
+const catOwners = {
+    name: "Vasya",
+    age: 30,
+    cat: {
+        name: "Murzik",
+        age: 2,
+        breed: "Siam"
+    },
+    cat2: {
+        name: "Barsik",
+        age: 4,
+        breed: "Pers"
+    }
+}
